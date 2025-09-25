@@ -4,11 +4,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 import os
 
-# Download dataset jika tidak ada
+
 if not os.path.exists('medical_examination.csv'):
     print("Downloading medical_examination.csv...")
     try:
-        # Membuat dataset contoh (karena dataset asli tidak tersedia secara publik)
+        
         np.random.seed(42)
         n_samples = 10000
         
@@ -52,7 +52,7 @@ if not os.path.exists('medical_examination.csv'):
         df.to_csv('medical_examination.csv', index=False)
         print("Minimal dataset created!")
 else:
-    # 1. Import the data
+    
     df = pd.read_csv('medical_examination.csv')
     print("Dataset loaded successfully!")
 
@@ -127,4 +127,5 @@ if __name__ == "__main__":
     plt.savefig('heat_map.png')
     plt.show()
     
+
     print("Visualization completed!")
