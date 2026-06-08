@@ -1,0 +1,69 @@
+{
+  "health_scores": {
+    "MOTOR_01": 63.7,
+    "MOTOR_02": 64.2,
+    "MOTOR_03": 65.4,
+    "PUMP_01": 65.0,
+    "COMPRESSOR_01": 63.9
+  },
+  "health_cat": {
+    "MOTOR_01": "WARNING",
+    "MOTOR_02": "WARNING",
+    "MOTOR_03": "WARNING",
+    "PUMP_01": "WARNING",
+    "COMPRESSOR_01": "WARNING"
+  },
+  "model_results": {
+    "Logistic Regression": {
+      "Accuracy": 100.0,
+      "Precision": 99.5,
+      "Recall": 100.0,
+      "F1 Score": 99.8
+    },
+    "Random Forest": {
+      "Accuracy": 100.0,
+      "Precision": 99.5,
+      "Recall": 99.5,
+      "F1 Score": 99.5
+    }
+  },
+  "fail_prob": {
+    "COMPRESSOR_01": 5.0,
+    "MOTOR_01": 5.0,
+    "MOTOR_02": 5.0,
+    "MOTOR_03": 5.0,
+    "PUMP_01": 5.1
+  },
+  "rul": {
+    "COMPRESSOR_01": 58,
+    "MOTOR_01": 58,
+    "MOTOR_02": 58,
+    "MOTOR_03": 58,
+    "PUMP_01": 58
+  },
+  "total_energy": 380515.8,
+  "warning_count": 659,
+  "anomaly_count": 876,
+  "machines": [
+    "MOTOR_01",
+    "MOTOR_02",
+    "MOTOR_03",
+    "PUMP_01",
+    "COMPRESSOR_01"
+  ],
+  "energy_by_machine": {
+    "COMPRESSOR_01": 76042.3,
+    "MOTOR_01": 76178.4,
+    "MOTOR_02": 76163.1,
+    "MOTOR_03": 76034.2,
+    "PUMP_01": 76097.7
+  },
+  "warning_by_machine": {
+    "COMPRESSOR_01": 133,
+    "MOTOR_01": 127,
+    "MOTOR_02": 142,
+    "MOTOR_03": 125,
+    "PUMP_01": 132
+  },
+  "avg_energy": 76103.1
+}
