@@ -1,0 +1,698 @@
+{
+  "total_energy_kwh": 3264910.249996,
+  "total_cost_idr": 4922073900.6077,
+  "avg_daily_cost": 13485133.974267673,
+  "peak_pct": 20.80138598313886,
+  "bad_pf_pct": 9.746815759070948,
+  "machine_summary": [
+    {
+      "machine_id": "COMPRESSOR_02",
+      "machine_type": "Compressor",
+      "total_energy_kwh": 163655.929472,
+      "total_cost_idr": 246654782.4059,
+      "avg_power_factor": 0.8584911064669686,
+      "avg_power_kw": 19.001036761291072
+    },
+    {
+      "machine_id": "COMPRESSOR_04",
+      "machine_type": "Compressor",
+      "total_energy_kwh": 163542.576126,
+      "total_cost_idr": 246460623.0807,
+      "avg_power_factor": 0.8581460109162699,
+      "avg_power_kw": 18.992286041110205
+    },
+    {
+      "machine_id": "COMPRESSOR_01",
+      "machine_type": "Compressor",
+      "total_energy_kwh": 163380.928409,
+      "total_cost_idr": 246252275.1573,
+      "avg_power_factor": 0.8582029754993034,
+      "avg_power_kw": 18.97131077275894
+    },
+    {
+      "machine_id": "COMPRESSOR_05",
+      "machine_type": "Compressor",
+      "total_energy_kwh": 163354.304689,
+      "total_cost_idr": 246201955.36555,
+      "avg_power_factor": 0.8581300171526587,
+      "avg_power_kw": 18.996343152019072
+    },
+    {
+      "machine_id": "COMPRESSOR_03",
+      "machine_type": "Compressor",
+      "total_energy_kwh": 162976.874526,
+      "total_cost_idr": 245643336.2942,
+      "avg_power_factor": 0.8580969072763143,
+      "avg_power_kw": 18.913412550771728
+    },
+    {
+      "machine_id": "MOTOR_01",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114890.584919,
+      "total_cost_idr": 173235209.8493,
+      "avg_power_factor": 0.8553257134703197,
+      "avg_power_kw": 13.11536341609589
+    },
+    {
+      "machine_id": "MOTOR_14",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114876.98253,
+      "total_cost_idr": 173191360.355,
+      "avg_power_factor": 0.8551841980593606,
+      "avg_power_kw": 13.113810430936072
+    },
+    {
+      "machine_id": "MOTOR_03",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114689.275375,
+      "total_cost_idr": 172917113.053,
+      "avg_power_factor": 0.8549924914383562,
+      "avg_power_kw": 13.092383045091324
+    },
+    {
+      "machine_id": "MOTOR_07",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114641.226053,
+      "total_cost_idr": 172835860.38785,
+      "avg_power_factor": 0.854993955479452,
+      "avg_power_kw": 13.086897988013698
+    },
+    {
+      "machine_id": "MOTOR_04",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114628.639705,
+      "total_cost_idr": 172825170.7985,
+      "avg_power_factor": 0.8555242180365297,
+      "avg_power_kw": 13.085461466894976
+    },
+    {
+      "machine_id": "MOTOR_08",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114556.980902,
+      "total_cost_idr": 172708896.67515,
+      "avg_power_factor": 0.8549024001141553,
+      "avg_power_kw": 13.077280756278538
+    },
+    {
+      "machine_id": "MOTOR_15",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114541.26906400001,
+      "total_cost_idr": 172725902.47405,
+      "avg_power_factor": 0.8554140696347031,
+      "avg_power_kw": 13.075487397260273
+    },
+    {
+      "machine_id": "MOTOR_12",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114517.61322,
+      "total_cost_idr": 172645552.9625,
+      "avg_power_factor": 0.8545680878995434,
+      "avg_power_kw": 13.072786954908675
+    },
+    {
+      "machine_id": "MOTOR_06",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114506.925045,
+      "total_cost_idr": 172619229.70875,
+      "avg_power_factor": 0.8553024971461187,
+      "avg_power_kw": 13.071566780821918
+    },
+    {
+      "machine_id": "MOTOR_11",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114483.035521,
+      "total_cost_idr": 172611672.0752,
+      "avg_power_factor": 0.8547329023972603,
+      "avg_power_kw": 13.068839469178082
+    },
+    {
+      "machine_id": "MOTOR_05",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114482.171162,
+      "total_cost_idr": 172602874.56965,
+      "avg_power_factor": 0.8547088727168949,
+      "avg_power_kw": 13.068740821917807
+    },
+    {
+      "machine_id": "MOTOR_02",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114466.959029,
+      "total_cost_idr": 172631239.8503,
+      "avg_power_factor": 0.8541060616438356,
+      "avg_power_kw": 13.067004457762557
+    },
+    {
+      "machine_id": "MOTOR_09",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114456.158884,
+      "total_cost_idr": 172535217.3883,
+      "avg_power_factor": 0.8545554737442923,
+      "avg_power_kw": 13.06577142979452
+    },
+    {
+      "machine_id": "MOTOR_13",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114425.749992,
+      "total_cost_idr": 172522696.5039,
+      "avg_power_factor": 0.8544175827625571,
+      "avg_power_kw": 13.06230035673516
+    },
+    {
+      "machine_id": "MOTOR_10",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114425.436997,
+      "total_cost_idr": 172494928.27815,
+      "avg_power_factor": 0.8549351940639269,
+      "avg_power_kw": 13.062264477739726
+    },
+    {
+      "machine_id": "PUMP_06",
+      "machine_type": "Pump",
+      "total_energy_kwh": 73089.642437,
+      "total_cost_idr": 110199208.84765,
+      "avg_power_factor": 0.8549854537671232,
+      "avg_power_kw": 8.343566669520548
+    },
+    {
+      "machine_id": "PUMP_10",
+      "machine_type": "Pump",
+      "total_energy_kwh": 73034.209138,
+      "total_cost_idr": 110127752.77835,
+      "avg_power_factor": 0.8550221632420092,
+      "avg_power_kw": 8.337238513127854
+    },
+    {
+      "machine_id": "PUMP_05",
+      "machine_type": "Pump",
+      "total_energy_kwh": 73024.729543,
+      "total_cost_idr": 110094859.79785,
+      "avg_power_factor": 0.8550236301369862,
+      "avg_power_kw": 8.3361562043379
+    },
+    {
+      "machine_id": "PUMP_08",
+      "machine_type": "Pump",
+      "total_energy_kwh": 72947.834701,
+      "total_cost_idr": 109979985.2237,
+      "avg_power_factor": 0.8555436672374429,
+      "avg_power_kw": 8.327378290525113
+    },
+    {
+      "machine_id": "PUMP_09",
+      "machine_type": "Pump",
+      "total_energy_kwh": 72921.01405,
+      "total_cost_idr": 109970525.091,
+      "avg_power_factor": 0.8553835844748858,
+      "avg_power_kw": 8.324316438356165
+    },
+    {
+      "machine_id": "PUMP_03",
+      "machine_type": "Pump",
+      "total_energy_kwh": 72909.723172,
+      "total_cost_idr": 109927813.69915,
+      "avg_power_factor": 0.855208821347032,
+      "avg_power_kw": 8.323027959474887
+    },
+    {
+      "machine_id": "PUMP_01",
+      "machine_type": "Pump",
+      "total_energy_kwh": 72894.227927,
+      "total_cost_idr": 109895576.14315,
+      "avg_power_factor": 0.8549614982876713,
+      "avg_power_kw": 8.321258764269407
+    },
+    {
+      "machine_id": "PUMP_04",
+      "machine_type": "Pump",
+      "total_energy_kwh": 72891.662445,
+      "total_cost_idr": 109891454.4595,
+      "avg_power_factor": 0.8551899743150685,
+      "avg_power_kw": 8.32096600171233
+    },
+    {
+      "machine_id": "PUMP_07",
+      "machine_type": "Pump",
+      "total_energy_kwh": 72888.089061,
+      "total_cost_idr": 109899016.4577,
+      "avg_power_factor": 0.8552351855022832,
+      "avg_power_kw": 8.320558162100458
+    },
+    {
+      "machine_id": "PUMP_02",
+      "machine_type": "Pump",
+      "total_energy_kwh": 72809.495902,
+      "total_cost_idr": 109771810.8764,
+      "avg_power_factor": 0.8549587071917809,
+      "avg_power_kw": 8.31158636130137
+    }
+  ],
+  "hourly_summary": [
+    {
+      "hour": 0,
+      "avg_energy": 2.4967958817417912,
+      "avg_cost": 3620.354028525597,
+      "total_cost": 158549784.32525
+    },
+    {
+      "hour": 1,
+      "avg_energy": 2.507373057633466,
+      "avg_cost": 3635.690933568526,
+      "total_cost": 159221448.7447
+    },
+    {
+      "hour": 2,
+      "avg_energy": 2.5106639265229704,
+      "avg_cost": 3640.4626934583066,
+      "total_cost": 159437704.1227
+    },
+    {
+      "hour": 3,
+      "avg_energy": 2.510604799141396,
+      "avg_cost": 3640.3769587550237,
+      "total_cost": 159419387.7778
+    },
+    {
+      "hour": 4,
+      "avg_energy": 2.512392920008221,
+      "avg_cost": 3642.96973401192,
+      "total_cost": 159532930.59185
+    },
+    {
+      "hour": 5,
+      "avg_energy": 2.513653383953239,
+      "avg_cost": 3644.797406732196,
+      "total_cost": 159631192.02265
+    },
+    {
+      "hour": 6,
+      "avg_energy": 3.3396566256615876,
+      "avg_cost": 4842.502107209302,
+      "total_cost": 211351004.46915
+    },
+    {
+      "hour": 7,
+      "avg_energy": 3.3349872325410836,
+      "avg_cost": 4835.73148718457,
+      "total_cost": 210987800.51735
+    },
+    {
+      "hour": 8,
+      "avg_energy": 3.5203697185620495,
+      "avg_cost": 5104.536091914972,
+      "total_cost": 222363801.236
+    },
+    {
+      "hour": 9,
+      "avg_energy": 3.519765713846648,
+      "avg_cost": 5103.66028507764,
+      "total_cost": 222514484.7691
+    },
+    {
+      "hour": 10,
+      "avg_energy": 3.521444025343771,
+      "avg_cost": 5106.093836748468,
+      "total_cost": 222426553.6226
+    },
+    {
+      "hour": 11,
+      "avg_energy": 3.5244392467696404,
+      "avg_cost": 5110.436907815979,
+      "total_cost": 222666846.51045
+    },
+    {
+      "hour": 12,
+      "avg_energy": 2.9722704536935454,
+      "avg_cost": 4309.792157855641,
+      "total_cost": 188562026.4905
+    },
+    {
+      "hour": 13,
+      "avg_energy": 2.9702793439279263,
+      "avg_cost": 4306.905048695493,
+      "total_cost": 188353878.4946
+    },
+    {
+      "hour": 14,
+      "avg_energy": 3.5244226777153345,
+      "avg_cost": 5110.412882687235,
+      "total_cost": 222788449.62075
+    },
+    {
+      "hour": 15,
+      "avg_energy": 3.5264065194107928,
+      "avg_cost": 5113.2894531456495,
+      "total_cost": 222857607.5259
+    },
+    {
+      "hour": 16,
+      "avg_energy": 3.524144618678293,
+      "avg_cost": 5110.009697083525,
+      "total_cost": 222694222.5989
+    },
+    {
+      "hour": 17,
+      "avg_energy": 3.520824926010871,
+      "avg_cost": 5985.402374218481,
+      "total_cost": 260969528.9183
+    },
+    {
+      "hour": 18,
+      "avg_energy": 3.4325961459121226,
+      "avg_cost": 5835.413448050608,
+      "total_cost": 254593253.325
+    },
+    {
+      "hour": 19,
+      "avg_energy": 3.42999482353076,
+      "avg_cost": 5830.991200002292,
+      "total_cost": 254394484.0737
+    },
+    {
+      "hour": 20,
+      "avg_energy": 3.4254734649609913,
+      "avg_cost": 5823.304890433685,
+      "total_cost": 253779627.1251
+    },
+    {
+      "hour": 21,
+      "avg_energy": 3.431290244954591,
+      "avg_cost": 5833.193416422805,
+      "total_cost": 254350565.7297
+    },
+    {
+      "hour": 22,
+      "avg_energy": 2.6051151585184846,
+      "avg_cost": 3777.416979851803,
+      "total_cost": 165424421.79865
+    },
+    {
+      "hour": 23,
+      "avg_energy": 2.601448348250982,
+      "avg_cost": 3772.1001049639235,
+      "total_cost": 165202896.197
+    }
+  ],
+  "daily_summary": [
+    {
+      "day_of_week": "Monday",
+      "avg_cost": 4693.649598639572,
+      "total_cost": 700893307.26565
+    },
+    {
+      "day_of_week": "Tuesday",
+      "avg_cost": 4699.784203569036,
+      "total_cost": 701865772.961
+    },
+    {
+      "day_of_week": "Wednesday",
+      "avg_cost": 4694.167352979382,
+      "total_cost": 714433494.45405
+    },
+    {
+      "day_of_week": "Thursday",
+      "avg_cost": 4700.753502738097,
+      "total_cost": 701911812.27535
+    },
+    {
+      "day_of_week": "Friday",
+      "avg_cost": 4688.296700671292,
+      "total_cost": 700145540.98155
+    },
+    {
+      "day_of_week": "Saturday",
+      "avg_cost": 4697.9444299833285,
+      "total_cost": 701675584.17345
+    },
+    {
+      "day_of_week": "Sunday",
+      "avg_cost": 4695.326349849326,
+      "total_cost": 701148388.49665
+    }
+  ],
+  "type_summary": [
+    {
+      "machine_type": "Compressor",
+      "total_energy": 816910.613222,
+      "total_cost": 1231212972.30365,
+      "avg_pf": 0.858213403462303
+    },
+    {
+      "machine_type": "Motor",
+      "total_energy": 1718589.008398,
+      "total_cost": 2591102924.9296,
+      "avg_pf": 0.8549109145738204
+    },
+    {
+      "machine_type": "Pump",
+      "total_energy": 729410.628376,
+      "total_cost": 1099758003.37445,
+      "avg_pf": 0.8551512685502283
+    }
+  ],
+  "top10_energy": [
+    {
+      "machine_id": "COMPRESSOR_02",
+      "machine_type": "Compressor",
+      "total_energy_kwh": 163655.929472,
+      "total_cost_idr": 246654782.4059,
+      "avg_power_factor": 0.8584911064669686,
+      "avg_power_kw": 19.001036761291072
+    },
+    {
+      "machine_id": "COMPRESSOR_04",
+      "machine_type": "Compressor",
+      "total_energy_kwh": 163542.576126,
+      "total_cost_idr": 246460623.0807,
+      "avg_power_factor": 0.8581460109162699,
+      "avg_power_kw": 18.992286041110205
+    },
+    {
+      "machine_id": "COMPRESSOR_01",
+      "machine_type": "Compressor",
+      "total_energy_kwh": 163380.928409,
+      "total_cost_idr": 246252275.1573,
+      "avg_power_factor": 0.8582029754993034,
+      "avg_power_kw": 18.97131077275894
+    },
+    {
+      "machine_id": "COMPRESSOR_05",
+      "machine_type": "Compressor",
+      "total_energy_kwh": 163354.304689,
+      "total_cost_idr": 246201955.36555,
+      "avg_power_factor": 0.8581300171526587,
+      "avg_power_kw": 18.996343152019072
+    },
+    {
+      "machine_id": "COMPRESSOR_03",
+      "machine_type": "Compressor",
+      "total_energy_kwh": 162976.874526,
+      "total_cost_idr": 245643336.2942,
+      "avg_power_factor": 0.8580969072763143,
+      "avg_power_kw": 18.913412550771728
+    },
+    {
+      "machine_id": "MOTOR_01",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114890.584919,
+      "total_cost_idr": 173235209.8493,
+      "avg_power_factor": 0.8553257134703197,
+      "avg_power_kw": 13.11536341609589
+    },
+    {
+      "machine_id": "MOTOR_14",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114876.98253,
+      "total_cost_idr": 173191360.355,
+      "avg_power_factor": 0.8551841980593606,
+      "avg_power_kw": 13.113810430936072
+    },
+    {
+      "machine_id": "MOTOR_03",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114689.275375,
+      "total_cost_idr": 172917113.053,
+      "avg_power_factor": 0.8549924914383562,
+      "avg_power_kw": 13.092383045091324
+    },
+    {
+      "machine_id": "MOTOR_07",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114641.226053,
+      "total_cost_idr": 172835860.38785,
+      "avg_power_factor": 0.854993955479452,
+      "avg_power_kw": 13.086897988013698
+    },
+    {
+      "machine_id": "MOTOR_04",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114628.639705,
+      "total_cost_idr": 172825170.7985,
+      "avg_power_factor": 0.8555242180365297,
+      "avg_power_kw": 13.085461466894976
+    }
+  ],
+  "top10_cost": [
+    {
+      "machine_id": "COMPRESSOR_02",
+      "machine_type": "Compressor",
+      "total_energy_kwh": 163655.929472,
+      "total_cost_idr": 246654782.4059,
+      "avg_power_factor": 0.8584911064669686,
+      "avg_power_kw": 19.001036761291072
+    },
+    {
+      "machine_id": "COMPRESSOR_04",
+      "machine_type": "Compressor",
+      "total_energy_kwh": 163542.576126,
+      "total_cost_idr": 246460623.0807,
+      "avg_power_factor": 0.8581460109162699,
+      "avg_power_kw": 18.992286041110205
+    },
+    {
+      "machine_id": "COMPRESSOR_01",
+      "machine_type": "Compressor",
+      "total_energy_kwh": 163380.928409,
+      "total_cost_idr": 246252275.1573,
+      "avg_power_factor": 0.8582029754993034,
+      "avg_power_kw": 18.97131077275894
+    },
+    {
+      "machine_id": "COMPRESSOR_05",
+      "machine_type": "Compressor",
+      "total_energy_kwh": 163354.304689,
+      "total_cost_idr": 246201955.36555,
+      "avg_power_factor": 0.8581300171526587,
+      "avg_power_kw": 18.996343152019072
+    },
+    {
+      "machine_id": "COMPRESSOR_03",
+      "machine_type": "Compressor",
+      "total_energy_kwh": 162976.874526,
+      "total_cost_idr": 245643336.2942,
+      "avg_power_factor": 0.8580969072763143,
+      "avg_power_kw": 18.913412550771728
+    },
+    {
+      "machine_id": "MOTOR_01",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114890.584919,
+      "total_cost_idr": 173235209.8493,
+      "avg_power_factor": 0.8553257134703197,
+      "avg_power_kw": 13.11536341609589
+    },
+    {
+      "machine_id": "MOTOR_14",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114876.98253,
+      "total_cost_idr": 173191360.355,
+      "avg_power_factor": 0.8551841980593606,
+      "avg_power_kw": 13.113810430936072
+    },
+    {
+      "machine_id": "MOTOR_03",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114689.275375,
+      "total_cost_idr": 172917113.053,
+      "avg_power_factor": 0.8549924914383562,
+      "avg_power_kw": 13.092383045091324
+    },
+    {
+      "machine_id": "MOTOR_07",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114641.226053,
+      "total_cost_idr": 172835860.38785,
+      "avg_power_factor": 0.854993955479452,
+      "avg_power_kw": 13.086897988013698
+    },
+    {
+      "machine_id": "MOTOR_04",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114628.639705,
+      "total_cost_idr": 172825170.7985,
+      "avg_power_factor": 0.8555242180365297,
+      "avg_power_kw": 13.085461466894976
+    }
+  ],
+  "pf_worst10": [
+    {
+      "machine_id": "MOTOR_02",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114466.959029,
+      "total_cost_idr": 172631239.8503,
+      "avg_power_factor": 0.8541060616438356,
+      "avg_power_kw": 13.067004457762557
+    },
+    {
+      "machine_id": "MOTOR_13",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114425.749992,
+      "total_cost_idr": 172522696.5039,
+      "avg_power_factor": 0.8544175827625571,
+      "avg_power_kw": 13.06230035673516
+    },
+    {
+      "machine_id": "MOTOR_09",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114456.158884,
+      "total_cost_idr": 172535217.3883,
+      "avg_power_factor": 0.8545554737442923,
+      "avg_power_kw": 13.06577142979452
+    },
+    {
+      "machine_id": "MOTOR_12",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114517.61322,
+      "total_cost_idr": 172645552.9625,
+      "avg_power_factor": 0.8545680878995434,
+      "avg_power_kw": 13.072786954908675
+    },
+    {
+      "machine_id": "MOTOR_05",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114482.171162,
+      "total_cost_idr": 172602874.56965,
+      "avg_power_factor": 0.8547088727168949,
+      "avg_power_kw": 13.068740821917807
+    },
+    {
+      "machine_id": "MOTOR_11",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114483.035521,
+      "total_cost_idr": 172611672.0752,
+      "avg_power_factor": 0.8547329023972603,
+      "avg_power_kw": 13.068839469178082
+    },
+    {
+      "machine_id": "MOTOR_08",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114556.980902,
+      "total_cost_idr": 172708896.67515,
+      "avg_power_factor": 0.8549024001141553,
+      "avg_power_kw": 13.077280756278538
+    },
+    {
+      "machine_id": "MOTOR_10",
+      "machine_type": "Motor",
+      "total_energy_kwh": 114425.436997,
+      "total_cost_idr": 172494928.27815,
+      "avg_power_factor": 0.8549351940639269,
+      "avg_power_kw": 13.062264477739726
+    },
+    {
+      "machine_id": "PUMP_02",
+      "machine_type": "Pump",
+      "total_energy_kwh": 72809.495902,
+      "total_cost_idr": 109771810.8764,
+      "avg_power_factor": 0.8549587071917809,
+      "avg_power_kw": 8.31158636130137
+    },
+    {
+      "machine_id": "PUMP_01",
+      "machine_type": "Pump",
+      "total_energy_kwh": 72894.227927,
+      "total_cost_idr": 109895576.14315,
+      "avg_power_factor": 0.8549614982876713,
+      "avg_power_kw": 8.321258764269407
+    }
+  ]
+}
