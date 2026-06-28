@@ -1,0 +1,35 @@
+# ============================================================
+#  Smart Industrial IoT — Requirements
+#  PT Nusantara Steel Manufacturing
+#  Python 3.10+
+# ============================================================
+
+# ── Core Data Science ────────────────────────────────────
+pandas>=2.0.0
+numpy>=1.24.0
+
+# ── Machine Learning ─────────────────────────────────────
+scikit-learn>=1.3.0
+
+# ── Dashboard ────────────────────────────────────────────
+streamlit>=1.30.0
+plotly>=5.18.0
+
+# ── IoT / MQTT ───────────────────────────────────────────
+paho-mqtt>=1.6.1
+
+# ── Database ─────────────────────────────────────────────
+psycopg2-binary>=2.9.9       # PostgreSQL driver
+
+# ── Utilities ────────────────────────────────────────────
+python-dateutil>=2.8.2
+scipy>=1.11.0                # Statistik lanjutan (opsional)
+statsmodels>=0.14.0          # Untuk forecast lebih akurat (opsional)
+
+# ── Laporan (opsional) ───────────────────────────────────
+reportlab>=4.0.0             # Generate PDF Executive Report
+openpyxl>=3.1.0              # Export ke Excel
+
+# ── Development ──────────────────────────────────────────
+jupyter>=1.0.0
+ipykernel>=6.25.0
